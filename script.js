@@ -17,7 +17,7 @@ const quotes = [
     }
 ];
 
-const newJokeBtn = document.getElementById('new-quote-btn');
+const newJokeBtn = document.getElementById('new-joke-btn');
 const quoteText = document.getElementById('quote-text'); 
 const quoteAnswer = document.getElementById('quote-answer'); 
 
