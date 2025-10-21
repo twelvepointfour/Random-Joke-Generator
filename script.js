@@ -17,7 +17,7 @@ const quotes = [
     }
 ];
 
-const newQuoteBtn = document.getElementById('new-quote-btn');
+const newJokeBtn = document.getElementById('new-quote-btn');
 const quoteText = document.getElementById('quote-text'); 
 const quoteAnswer = document.getElementById('quote-answer'); 
 
@@ -29,6 +29,6 @@ function displayRandomQuote () {
     quoteAnswer.textContent = randomQuote.answer;
 }
 
-newQuoteBtn.addEventListener('click', displayRandomQuote);
+newJokeBtn.addEventListener('click', displayRandomQuote);
 
 displayRandomQuote();
