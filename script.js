@@ -77,7 +77,7 @@ const quotes = [
     },
     {
         quote: "My girlfriend and I watched Harry Potter back-to-back.", 
-        answer: "Luckily, I was the one facing the TV!”"
+        answer: "Luckily, I was the one facing the TV!"
     },
     {
         quote: "I read a book about anti-gravity…",
