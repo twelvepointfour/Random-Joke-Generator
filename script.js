@@ -77,7 +77,7 @@ const quotes = [
     },
     {
         quote: "My girlfriend and I watched Harry Potter back-to-back.", 
-        answer: "Luckily, I was the one facing the TV!”
+        answer: "Luckily, I was the one facing the TV!”"
     },
     {
         quote: "I read a book about anti-gravity…",
@@ -925,7 +925,7 @@ const quotes = [
     },
     {
         quote: "People who use selfie sticks really need to take a good long look at themselves.",
-        answer: " " // Answer left blank as it's a punchline within the quote setup
+        answer: " "
     },
     {
         quote: "My wife is so pessimistic that if there was an Olympics for pessimism.",
@@ -989,7 +989,7 @@ const quotes = [
     },
     {
         quote: "You can distinguish an alligator from a crocodile by paying attention to whether the animal says, ‘see you later’ or ‘in a while’.",
-        answer: " " // Answer left blank as the joke is in the quote
+        answer: " "
     },
     {
         quote: "What happened when the butcher backed into his meat grinder?",
@@ -1165,7 +1165,7 @@ const quotes = [
     },
     {
         quote: "My recliner and I go waaaaay back.",
-        answer: " " // Answer left blank as it's a quote setup
+        answer: " "
     },
     {
         quote: "When I was younger I was a man stuck in a woman’s body.",
@@ -1181,7 +1181,7 @@ const quotes = [
     },
     {
         quote: "Did you know that before the crowbar was invented, crows used to eat at home.",
-        answer: " " // Answer left blank as the joke is in the quote
+        answer: " "
     },
     {
         quote: "How do you know if a sniper likes you?",
