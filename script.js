@@ -14,6 +14,22 @@ const quotes = [
     {
         quote: "Why don't scientists trust atoms?",
         answer: "Because they make up everything!"
+    },
+    {
+        quote: "I have a fear of elevators...",
+        answer: "But I've started taking steps to avoid it."
+    },
+    {
+        quote: "Two peanuts were walking down the street."
+        answer: "One was a-salted!"
+    },
+    {
+        quote: "Kid: I'll call you later",
+        answer: "Dad: Don't call me later, call me dad."
+    },
+    {
+        quote: "How do you tell the difference between a frog and a horny toad?",
+        answer: "A frog says "ribbit, ribbit", and a horny toad says "rub it, rub it""
     }
 ];
 
